@@ -1,0 +1,7 @@
+# always-ignore extensions
+*.swp
+
+# OS or Editor folders
+.DS_Store
+.idea
+
